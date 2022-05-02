@@ -1,6 +1,6 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "Services"
+description : "Generator services"
 draft: false
 ---
 
