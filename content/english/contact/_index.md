@@ -20,6 +20,5 @@ opennig_hour:
     - "Friday: 9:00 AM – 07:00 PM"
     - "Saturday: 9:00 AM – 02:00 PM"
     - "Sunday: 9:00 AM – 02:00 PM"
-    
 draft: false
 ---
